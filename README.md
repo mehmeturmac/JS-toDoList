@@ -1,4 +1,4 @@
-# JavaScript-Odev2
+# JS-toDoList
 Javascript ile To Do List
 
 ## License
